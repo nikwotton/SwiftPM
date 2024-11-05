@@ -8,6 +8,7 @@ let package = Package(
     // Products define the executables and libraries a package produces, making them visible to other packages.
     .library(
       name: "SDKSwift123",
+      type: .dynamic,
       targets: ["SDKSwift123"])
   ],
   targets: [
