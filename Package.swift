@@ -15,7 +15,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "sdk-swift",
-            path: "./Candle.xcframework"
+            path: "./sdk-swift.xcframework"
         )
     ]
 )
