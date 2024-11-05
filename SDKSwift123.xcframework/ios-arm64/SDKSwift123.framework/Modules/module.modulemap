@@ -1,0 +1,6 @@
+framework module SDKSwift123 {
+umbrella "Headers"
+export *
+
+module * { export * }
+}

@@ -1,0 +1,39 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "SDKSwift123",
+    "printedName": "SDKSwift123",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SDKSwift123"
+      },
+      {
+        "kind": "Function",
+        "name": "myHelloWorld",
+        "printedName": "myHelloWorld()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:11SDKSwift12312myHelloWorldyyF",
+        "mangledName": "$s11SDKSwift12312myHelloWorldyyF",
+        "moduleName": "SDKSwift123",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
